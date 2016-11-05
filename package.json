@@ -1,0 +1,11 @@
+{
+  "name": "Smart-Hi-Low-game",
+  "version": "1.0.0",
+  "description": "Alexa Smart Hi-Low game",
+  "main": "index.js",
+  "dependencies": {
+    "alexa-sdk": "^1.0.0"
+  },
+  "devDependencies": {},
+  "author": "Sai Pc"
+}
