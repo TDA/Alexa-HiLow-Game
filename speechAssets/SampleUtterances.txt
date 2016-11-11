@@ -11,3 +11,9 @@ AMAZON.StartOverIntent start over
 AMAZON.StartOverIntent restart
 AMAZON.StartOverIntent start again
 AMAZON.StartOverIntent play again
+AMAZON.YesIntent yes
+AMAZON.NoIntent no
+AMAZON.YesIntent high
+AMAZON.NoIntent low
+AMAZON.YesIntent higher
+AMAZON.NoIntent lower
